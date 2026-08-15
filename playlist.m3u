@@ -12,8 +12,32 @@ https://cdn-2.pishow.tv/live/477/master.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="CG Channel",INH 24x7 (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
 
+#EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" tvg-language="Hindi" group-title="CG Channel", India News MP
+http://103.159.180.34:5001/live/515.m3u8
+
+#EXTINF:-1 tvg-id="658" tvg-name="Zee MP Chattisgarh" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" tvg-language="Hindi" group-title="CG Channel", Zee MP Chattisgarh
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
+
+#EXTINF:-1 tvg-id="1635" tvg-name="News State MPCG " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_State_MPCG.png" tvg-language="Hindi" group-title="CG Channel", News State MPCG 
+https://mumt01.tangotv.in/NEWSSTATEMPCG/index.m3u8
+
+#EXTINF:-1 tvg-id="1817" tvg-name="NEWS 24 MPCG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NEWS_24_MPCG.png" tvg-language="Hindi" group-title="News", NEWS 24 MPCG
+https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
+
+#EXTINF:-1 tvg-id="2771" tvg-name="Sadhna News MP CG" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna_News_MP_CG.png" tvg-language="Hindi" group-title="CG Channel", Sadhna News MP CG
+http://103.159.180.34:5001/live/2771.m3u8
+
 #EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="CG Channel",DD Chhattisgarh (720p)
 https://cdn-1.pishow.tv/live/15/master.m3u8
+
+#EXTINF:-1 tvg-id="3083" tvg-name="Sundrani TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sundrani_TV.png" tvg-language="" group-title="CG Channel", Sundrani TV
+http://103.159.180.34:5001/live/3083.m3u8
+
+#EXTINF:-1 tvg-id="3486" tvg-name="MP Today" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MPToday.png" tvg-language="Hindi" group-title="MP News", MP Today
+http://103.159.180.34:5001/live/3486.m3u8
+
+#EXTINF:-1 tvg-id="1608" tvg-name="MP News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MP_News.png" tvg-language="Hindi" group-title="MP News", MP News
+http://103.159.180.34:5001/live/1608.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Hindi Business",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
