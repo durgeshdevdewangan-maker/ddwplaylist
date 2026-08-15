@@ -1,7 +1,5 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" group-title="Hindi News",Zee Business
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Business",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-
-#EXTINF:-1 tvg-id="IBC24.in@SD" group-title="Hindi News",IBC 24
+#EXTINF:-1 tvg-id="IBC24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_IBC24/images/LOGO_HD/image.png" group-title="News",IBC 24 (720p)
 https://ott-prasar.ibc24.in/master_1_TS-49410_1.m3u8
