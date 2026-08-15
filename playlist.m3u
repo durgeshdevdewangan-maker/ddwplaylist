@@ -1,31 +1,5 @@
-#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" group-title="Business",Zee Business (720p)
+#EXTM3U
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" group-title="Hindi News",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
-
-IBc 24 
+#EXTINF:-1 tvg-id="IBC24.in@SD" group-title="Hindi News",IBC 24
 https://ott-prasar.ibc24.in/master_1_TS-49410_1.m3u8
-
-#EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png" group-title="News",News18 Madhya Pradesh/Chhattisgarh (1080p)
-https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
-
-Sadhna News Mp Cg Raj
-https://www.youtube.com/watch?v=5W_wKiXT_A4 
-
-Bansal New MP CG 
-https://www.youtube.com/watch?v=J5887WBgToc
-
-india News MP CG 
-https://www.youtube.com/watch?v=uvuvwES2MUo
-
-News 24 MP CG 
-https://www.youtube.com/watch?v=TIjyQTIA7n8
-
-#EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="News",Swaraj Express SMBC (720p) [Not 24/7]
-https://cdn-2.pishow.tv/live/477/master.m3u8
-
-#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="News",INH 24x7 (396p)
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="News",INH 24x7 (396p)
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
