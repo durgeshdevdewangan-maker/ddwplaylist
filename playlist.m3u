@@ -12,6 +12,18 @@ https://shemaroo.keralive.workers.dev/du_filmigaane/du_filmigaane_1080/playlist.
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://shemaroo.keralive.workers.dev/du_bollywoodmovies1/du_bollywoodmovies_1080/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Shemaroo Comedy" tvg-logo="https://i.ibb.co/Nn7xbxVF/Shemaroo-Comdey-PNG.jpg" group-title="Ott",Shemaroo Comedy 1 
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Shemaroo Comedy" tvg-logo="https://i.ibb.co/Nn7xbxVF/Shemaroo-Comdey-PNG.jpg" group-title="Ott",Shemaroo Comedy 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="Superfine Films Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/da81487fc22fd58bdee4bae75346db7d.png" group-title="Ott",Superfine Films Hindi
